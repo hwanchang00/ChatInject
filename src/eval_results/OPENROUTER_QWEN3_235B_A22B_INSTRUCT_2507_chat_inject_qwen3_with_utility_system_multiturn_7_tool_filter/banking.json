@@ -1,0 +1,11 @@
+{
+  "suite_name": "banking",
+  "total_tasks": 144,
+  "successful_tasks": 42,
+  "utility_under_attack": 29.166666666666668,
+  "passed_injection_tasks_as_user_tasks": 2,
+  "total_injection_tasks": 9,
+  "average_asr": 9.027777777777777,
+  "total_security_tasks": 144,
+  "injection_successful_tasks": 13
+}

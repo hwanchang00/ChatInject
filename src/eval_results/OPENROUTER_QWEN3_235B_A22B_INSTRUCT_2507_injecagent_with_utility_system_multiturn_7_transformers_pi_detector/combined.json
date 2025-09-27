@@ -1,0 +1,11 @@
+{
+  "suite_name": "combined",
+  "total_tasks": 389,
+  "successful_tasks": 110,
+  "utility_under_attack": 28.277634961439592,
+  "passed_injection_tasks_as_user_tasks": 14,
+  "total_injection_tasks": 21,
+  "average_asr": 10.796915167095115,
+  "total_security_tasks": 389,
+  "injection_successful_tasks": 42
+}

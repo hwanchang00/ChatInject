@@ -1,0 +1,11 @@
+{
+  "suite_name": "travel",
+  "total_tasks": 140,
+  "successful_tasks": 77,
+  "utility_under_attack": 55.00000000000001,
+  "passed_injection_tasks_as_user_tasks": 6,
+  "total_injection_tasks": 7,
+  "average_asr": 12.857142857142856,
+  "total_security_tasks": 140,
+  "injection_successful_tasks": 18
+}

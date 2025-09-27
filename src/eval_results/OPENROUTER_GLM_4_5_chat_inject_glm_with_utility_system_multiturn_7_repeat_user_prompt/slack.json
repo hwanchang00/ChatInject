@@ -1,0 +1,11 @@
+{
+  "suite_name": "slack",
+  "total_tasks": 105,
+  "successful_tasks": 60,
+  "utility_under_attack": 57.14285714285714,
+  "passed_injection_tasks_as_user_tasks": 5,
+  "total_injection_tasks": 5,
+  "average_asr": 18.095238095238095,
+  "total_security_tasks": 105,
+  "injection_successful_tasks": 19
+}

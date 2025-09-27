@@ -1,0 +1,11 @@
+{
+  "suite_name": "workspace",
+  "total_tasks": 560,
+  "successful_tasks": 237,
+  "utility_under_attack": 42.32142857142857,
+  "passed_injection_tasks_as_user_tasks": 4,
+  "total_injection_tasks": 14,
+  "average_asr": 0.0,
+  "total_security_tasks": 560,
+  "injection_successful_tasks": 0
+}
