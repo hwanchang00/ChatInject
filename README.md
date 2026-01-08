@@ -2,7 +2,7 @@
 
 ![Main Figure](images/main_figure.png)
 
-ChatInject is an indirect prompt-injection attack that exploits LLM agents' reliance on structured chat templates. By formatting malicious payloads to mimic native chat templates—and using persuasion-driven multi-turn dialogues to prime the agent—ChatInject causes agents to accept and execute otherwise suspicious instructions.
+ChatInject is an indirect prompt-injection attack that exploits LLM agents' reliance on structured chat templates. By formatting malicious payloads to mimic native chat templates—and expanding to persuasion-driven multi-turn dialogues to prime the agent—ChatInject causes agents to accept and execute otherwise suspicious instructions.
 
 ## Quickstart
 
